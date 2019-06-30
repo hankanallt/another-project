@@ -1,0 +1,51 @@
+#wrapper{
+    background-color: lightblue;
+    width: 1024px;
+    height: 768px;
+    text-align: center;
+    
+    
+}
+
+#banner{
+    background-color: red;
+    width: 1064px;
+    height: 80px;
+}
+
+#menu-top{
+    background-color: yellow;
+    width: 1064;
+    height: 30px;
+    
+    
+}
+
+#column-left{
+    width: 200px;
+    height: 500px;
+    background-color: pink;
+    float:left;
+    
+}
+
+#column-right{
+    width: 200px;
+    height: 500px;
+    background-color: black;
+    
+}
+
+#content{
+    width: 1064px;
+    height: 30px;
+    margin-top: 476px;
+    background-color: silver;
+}
+
+#footer{
+     background-color: red;
+    width: 1064px;
+    height: 80px;
+}
+
